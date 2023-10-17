@@ -1,6 +1,7 @@
 import pygame as pg
 from random import randint,choice
 v=pg.Vector2
+print("Hello world")
 class Mono:
     def __init__(self):
         self.children=[]
